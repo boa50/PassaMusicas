@@ -1,0 +1,6 @@
+arquivo/
+out/
+!.idea/
+.idea/*
+!.idea/libraries/
+Passa Musicas.iml
